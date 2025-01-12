@@ -1,3 +1,4 @@
+<img src="Make your README.png" alt="GitHub Banner" width="100%" />
 <h1>Hi 👋, I'm a passionate developer dedicated to crafting innovative and impactful solutions. Whether it's building seamless user interfaces or architecting robust backend systems, I enjoy creating meaningful experiences through code.</h1>
 <p>Full Stack Development with a focus on clean and efficient code. Exploring new technologies and contributing to open-source projects.</p>
 <h2>🚀 Languages and Tools I Use</h2>
